@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_fa604eb4a5219b35b783e58f09349ce692a3fd68.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_9bffa1132d93f8f344f9684b0e504931a54851a8.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_f07a2c8f8aa896c98482fc69a0c1c31be7d5fed1.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_549ff97c93915e1a6847124b256199e9b1cdf6a5.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_47652cf3a01367c6856a258dde8f7d21d874ee77.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_5c76e77cf1bccfb92bfc2e2a53477b0176e005ea.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_55ffdb17f91fd1e8582a61aa244303b4d075f24a.jar" />
+    </item>
+    <item
+        jar="D:\github_src\SlidingClose-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\github_src\SlidingClose-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_91c921d09ecac7c621c7b5df8120233d3c0457d9.jar" />
+    </item>
+
+</items>
